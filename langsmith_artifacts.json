@@ -1,0 +1,77 @@
+{
+  "langsmith_config": {
+    "api_key": "lsv2_pt_fbffed7e0861",
+    "project": "Texas Data Pipeline - Experiment 5"
+  },
+  "datasets": [
+    {
+      "name": "Texas Government Data - Experiment 5",
+      "description": "Texas government datasets from data.texas.gov, TDCJ, Comptroller for ground truth validation",
+      "examples": [
+        {
+          "input": {"query": "Texas Department of Criminal Justice inmate releases FY2025"},
+          "output": {"dataset_id": "q4fw-9sy9", "name": "Texas Department of Criminal Justice Releases FY 2025", "category": "LAW_VERIFICATION"}
+        },
+        {
+          "input": {"query": "TDI insurance complaints"},
+          "output": {"dataset_id": "jjc8-mxkg", "name": "Insurance Complaints - One Record Complaint", "category": "ATTORNEY_RESOURCE"}
+        },
+        {
+          "input": {"query": "Texas court cases"},
+          "output": {"dataset_id": "search.txcourts.gov", "name": "Texas Courts Search", "category": "LAW_VERIFICATION"}
+        },
+        {
+          "input": {"query": "Comptroller tax forms sales"},
+          "output": {"source": "comptroller.texas.gov", "category": "ATTORNEY_RESOURCE", "form_count": 55}
+        },
+        {
+          "input": {"query": "TDCJ directory contacts"},
+          "output": {"source": "tdcj.texas.gov", "contacts": 59, "divisions": 9, "category": "LAW_VERIFICATION"}
+        }
+      ]
+    },
+    {
+      "name": "TDCJ Contact Directory",
+      "description": "TDCJ contact directory with phone numbers and emails",
+      "examples": [
+        {"input": {"division": "Executive Director"}, "output": {"phone": "(936)437-2107", "type": "Phone"}},
+        {"input": {"division": "Human Resources"}, "output": {"phone": "(936)437-4141", "type": "Phone"}},
+        {"input": {"division": "Correctional Institutions Division"}, "output": {"phone": "(936)437-2173", "type": "Phone"}},
+        {"input": {"division": "Parole Division"}, "output": {"phone": "512-406-5401", "type": "Phone"}},
+        {"input": {"division": "Health Services Division"}, "output": {"phone": "(936)437-5570", "type": "Phone"}}
+      ]
+    },
+    {
+      "name": "Texas Comptroller Tax Forms",
+      "description": "Texas Comptroller tax forms and publications",
+      "examples": [
+        {"input": {"form": "AP-201"}, "output": {"title": "Texas Application for Sales and Use Tax Permit", "category": "sales"}},
+        {"input": {"form": "01-114"}, "output": {"title": "Texas Sales and Use Tax Return", "category": "sales"}},
+        {"input": {"form": "FR-10"}, "output": {"title": "Franchise Tax Forms", "category": "franchise"}}
+      ]
+    }
+  ],
+  "traces": {
+    "project_name": "Texas Data Pipeline - Ground Truth Discovery",
+    "timestamp": "2026-02-16T00:00:00Z",
+    "data_sources": [
+      "data.texas.gov (Socrata)",
+      "comptroller.texas.gov",
+      "tdcj.texas.gov",
+      "capitol.texas.gov",
+      "txcourts.gov"
+    ],
+    "metrics": {
+      "total_datasets": 263,
+      "legal_datasets": 147,
+      "api_reachability": "95.7%",
+      "tdcj_contacts": 59,
+      "tax_forms": 186
+    },
+    "classification": {
+      "LAW_VERIFICATION": 116,
+      "NEWS": 8,
+      "ATTORNEY_RESOURCE": 23
+    }
+  }
+}
