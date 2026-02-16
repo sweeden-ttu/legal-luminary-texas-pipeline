@@ -1,0 +1,43 @@
+{
+  "source": "TDCJ Phone & Address Directory",
+  "url": "https://www.tdcj.texas.gov/documents/annual_directory.pdf",
+  "extracted_at": "2026-02-16",
+  "contacts": [
+    {
+      "name": "Administrative Board of Pardons and Paroles\nOffices Status\nAustin",
+      "phone": "844-512-0461"
+    },
+    {
+      "name": "Locator Line\nAdministrative Huntsville\nOffices",
+      "phone": "936-295-6371"
+    },
+    {
+      "name": "Huntsville",
+      "phone": "936-295-6371"
+    },
+    {
+      "name": "Travel Office\nHuntsville Parole Division",
+      "phone": "936-437-6239"
+    },
+    {
+      "name": "Huntsville",
+      "phone": "936-437-5620"
+    },
+    {
+      "name": "Correctional\nInstitutions Division",
+      "phone": "936-437-2173"
+    },
+    {
+      "name": "Inmate Status Lines\nParole Status",
+      "phone": "512-406-5202"
+    }
+  ],
+  "emails": [
+    {
+      "email": "mike.jones@tdcj.texas.gov"
+    },
+    {
+      "email": "mike.jones@tdcj.texas.gov"
+    }
+  ]
+}

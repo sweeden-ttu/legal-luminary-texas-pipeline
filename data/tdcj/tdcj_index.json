@@ -1,0 +1,973 @@
+{
+  "metadata": {
+    "source": "TDCJ (Texas Department of Criminal Justice)",
+    "source_url": "https://www.tdcj.texas.gov",
+    "crawled_at": "2026-02-16T09:45:50.052Z",
+    "experiment": "Experiment 5 - Texas Data Pipeline",
+    "agent": "TDCJ Contact Crawler"
+  },
+  "summary": {
+    "total_contacts": 59,
+    "divisions_crawled": 9,
+    "phone_numbers": 57,
+    "emails": 2
+  },
+  "divisions": [
+    {
+      "name": "TDCJ Directory",
+      "contacts": [
+        {
+          "name": "Parole Division Client Helpline",
+          "contact": "833-482-0039",
+          "type": "Phone",
+          "source": "annual_directory.pdf"
+        },
+        {
+          "name": "Parole Division",
+          "contact": "512-406-5401",
+          "type": "Phone",
+          "source": "annual_directory.pdf"
+        },
+        {
+          "name": "Free Hotline",
+          "contact": "800-848-4284",
+          "type": "Phone",
+          "source": "annual_directory.pdf"
+        },
+        {
+          "name": "Email",
+          "contact": "mike.jones@tdcj.texas.gov",
+          "type": "Email",
+          "source": "annual_directory.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Executive Director",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-2107",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-2107",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-5732",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-5732",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-6726",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-6726",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        },
+        {
+          "name": "Email",
+          "contact": "exec.director@tdcj.texas.gov",
+          "type": "Email",
+          "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Human Resources",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-4141",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-4141",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-3250",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-3250",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Correctional Institutions Division",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-2173",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-2173",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-6325",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-6325",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-2116",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-2116",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-6207",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-6207",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-8702",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-8702",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-8725",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-8725",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-6318",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-6318",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-8724",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-8724",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Parole Division",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(512)406-5250",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(512) 406-5250",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Health Services Division",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-4271",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-4271",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)439-1345",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 439-1345",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)439-1350",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 439-1350",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Business & Finance",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-6251",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-6251",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Facilities Division",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-7200",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-7200",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-7205",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-7205",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+        }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "contacts": [
+        {
+          "name": "Main",
+          "contact": "(936)437-9180",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-9180",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-1011",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-1011",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936)437-9146",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 437-9146",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        },
+        {
+          "name": "Main",
+          "contact": "(936) 295-6371",
+          "type": "Phone",
+          "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "division": "TDCJ Directory",
+      "name": "Parole Division Client Helpline",
+      "contact": "833-482-0039",
+      "type": "Phone",
+      "source": "annual_directory.pdf"
+    },
+    {
+      "division": "TDCJ Directory",
+      "name": "Parole Division",
+      "contact": "512-406-5401",
+      "type": "Phone",
+      "source": "annual_directory.pdf"
+    },
+    {
+      "division": "TDCJ Directory",
+      "name": "Free Hotline",
+      "contact": "800-848-4284",
+      "type": "Phone",
+      "source": "annual_directory.pdf"
+    },
+    {
+      "division": "TDCJ Directory",
+      "name": "Email",
+      "contact": "mike.jones@tdcj.texas.gov",
+      "type": "Email",
+      "source": "annual_directory.pdf"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936)437-2107",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936) 437-2107",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936)437-5732",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936) 437-5732",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936)437-6726",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936) 437-6726",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Executive Director",
+      "name": "Email",
+      "contact": "exec.director@tdcj.texas.gov",
+      "type": "Email",
+      "source": "https://www.tdcj.texas.gov/divisions/es/index.html"
+    },
+    {
+      "division": "Human Resources",
+      "name": "Main",
+      "contact": "(936)437-4141",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+    },
+    {
+      "division": "Human Resources",
+      "name": "Main",
+      "contact": "(936) 437-4141",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+    },
+    {
+      "division": "Human Resources",
+      "name": "Main",
+      "contact": "(936)437-3250",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+    },
+    {
+      "division": "Human Resources",
+      "name": "Main",
+      "contact": "(936) 437-3250",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+    },
+    {
+      "division": "Human Resources",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hr/hr-home/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-2173",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-2173",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-6325",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-6325",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-2116",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-2116",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-6207",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-6207",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-8702",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-8702",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-8725",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-8725",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-6318",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-6318",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936)437-8724",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 437-8724",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Correctional Institutions Division",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/cid/index.html"
+    },
+    {
+      "division": "Parole Division",
+      "name": "Main",
+      "contact": "(512)406-5250",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+    },
+    {
+      "division": "Parole Division",
+      "name": "Main",
+      "contact": "(512) 406-5250",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+    },
+    {
+      "division": "Parole Division",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/pd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936)437-4271",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936) 437-4271",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936)439-1345",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936) 439-1345",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936)439-1350",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936) 439-1350",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Health Services Division",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/hsd/index.html"
+    },
+    {
+      "division": "Business & Finance",
+      "name": "Main",
+      "contact": "(936)437-6251",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+    },
+    {
+      "division": "Business & Finance",
+      "name": "Main",
+      "contact": "(936) 437-6251",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+    },
+    {
+      "division": "Business & Finance",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/bfd/index.html"
+    },
+    {
+      "division": "Facilities Division",
+      "name": "Main",
+      "contact": "(936)437-7200",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+    },
+    {
+      "division": "Facilities Division",
+      "name": "Main",
+      "contact": "(936) 437-7200",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+    },
+    {
+      "division": "Facilities Division",
+      "name": "Main",
+      "contact": "(936)437-7205",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+    },
+    {
+      "division": "Facilities Division",
+      "name": "Main",
+      "contact": "(936) 437-7205",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+    },
+    {
+      "division": "Facilities Division",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/fd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936)437-9180",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936) 437-9180",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936)437-1011",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936) 437-1011",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936)437-9146",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936) 437-9146",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    },
+    {
+      "division": "Information Technology",
+      "name": "Main",
+      "contact": "(936) 295-6371",
+      "type": "Phone",
+      "source": "https://www.tdcj.texas.gov/divisions/itd/index.html"
+    }
+  ],
+  "langgraph_ready": {
+    "datasets_indexed": [
+      "TDCJ Directory: 833-482-0039",
+      "TDCJ Directory: 512-406-5401",
+      "TDCJ Directory: 800-848-4284",
+      "TDCJ Directory: mike.jones@tdcj.texas.gov",
+      "Executive Director: (936)437-2107",
+      "Executive Director: (936) 437-2107",
+      "Executive Director: (936)437-5732",
+      "Executive Director: (936) 437-5732",
+      "Executive Director: (936)437-6726",
+      "Executive Director: (936) 437-6726",
+      "Executive Director: (936) 295-6371",
+      "Executive Director: exec.director@tdcj.texas.gov",
+      "Human Resources: (936)437-4141",
+      "Human Resources: (936) 437-4141",
+      "Human Resources: (936)437-3250",
+      "Human Resources: (936) 437-3250",
+      "Human Resources: (936) 295-6371",
+      "Correctional Institutions Division: (936)437-2173",
+      "Correctional Institutions Division: (936) 437-2173",
+      "Correctional Institutions Division: (936)437-6325",
+      "Correctional Institutions Division: (936) 437-6325",
+      "Correctional Institutions Division: (936)437-2116",
+      "Correctional Institutions Division: (936) 437-2116",
+      "Correctional Institutions Division: (936)437-6207",
+      "Correctional Institutions Division: (936) 437-6207",
+      "Correctional Institutions Division: (936)437-8702",
+      "Correctional Institutions Division: (936) 437-8702",
+      "Correctional Institutions Division: (936)437-8725",
+      "Correctional Institutions Division: (936) 437-8725",
+      "Correctional Institutions Division: (936)437-6318",
+      "Correctional Institutions Division: (936) 437-6318",
+      "Correctional Institutions Division: (936)437-8724",
+      "Correctional Institutions Division: (936) 437-8724",
+      "Correctional Institutions Division: (936) 295-6371",
+      "Parole Division: (512)406-5250",
+      "Parole Division: (512) 406-5250",
+      "Parole Division: (936) 295-6371",
+      "Health Services Division: (936)437-4271",
+      "Health Services Division: (936) 437-4271",
+      "Health Services Division: (936)439-1345",
+      "Health Services Division: (936) 439-1345",
+      "Health Services Division: (936)439-1350",
+      "Health Services Division: (936) 439-1350",
+      "Health Services Division: (936) 295-6371",
+      "Business & Finance: (936)437-6251",
+      "Business & Finance: (936) 437-6251",
+      "Business & Finance: (936) 295-6371",
+      "Facilities Division: (936)437-7200",
+      "Facilities Division: (936) 437-7200",
+      "Facilities Division: (936)437-7205",
+      "Facilities Division: (936) 437-7205",
+      "Facilities Division: (936) 295-6371",
+      "Information Technology: (936)437-9180",
+      "Information Technology: (936) 437-9180",
+      "Information Technology: (936)437-1011",
+      "Information Technology: (936) 437-1011",
+      "Information Technology: (936)437-9146",
+      "Information Technology: (936) 437-9146",
+      "Information Technology: (936) 295-6371"
+    ],
+    "by_division": {
+      "TDCJ Directory": [
+        "833-482-0039",
+        "512-406-5401",
+        "800-848-4284",
+        "mike.jones@tdcj.texas.gov"
+      ],
+      "Executive Director": [
+        "(936)437-2107",
+        "(936) 437-2107",
+        "(936)437-5732",
+        "(936) 437-5732",
+        "(936)437-6726",
+        "(936) 437-6726",
+        "(936) 295-6371",
+        "exec.director@tdcj.texas.gov"
+      ],
+      "Human Resources": [
+        "(936)437-4141",
+        "(936) 437-4141",
+        "(936)437-3250",
+        "(936) 437-3250",
+        "(936) 295-6371"
+      ],
+      "Correctional Institutions Division": [
+        "(936)437-2173",
+        "(936) 437-2173",
+        "(936)437-6325",
+        "(936) 437-6325",
+        "(936)437-2116",
+        "(936) 437-2116",
+        "(936)437-6207",
+        "(936) 437-6207",
+        "(936)437-8702",
+        "(936) 437-8702",
+        "(936)437-8725",
+        "(936) 437-8725",
+        "(936)437-6318",
+        "(936) 437-6318",
+        "(936)437-8724",
+        "(936) 437-8724",
+        "(936) 295-6371"
+      ],
+      "Parole Division": [
+        "(512)406-5250",
+        "(512) 406-5250",
+        "(936) 295-6371"
+      ],
+      "Health Services Division": [
+        "(936)437-4271",
+        "(936) 437-4271",
+        "(936)439-1345",
+        "(936) 439-1345",
+        "(936)439-1350",
+        "(936) 439-1350",
+        "(936) 295-6371"
+      ],
+      "Business & Finance": [
+        "(936)437-6251",
+        "(936) 437-6251",
+        "(936) 295-6371"
+      ],
+      "Facilities Division": [
+        "(936)437-7200",
+        "(936) 437-7200",
+        "(936)437-7205",
+        "(936) 437-7205",
+        "(936) 295-6371"
+      ],
+      "Information Technology": [
+        "(936)437-9180",
+        "(936) 437-9180",
+        "(936)437-1011",
+        "(936) 437-1011",
+        "(936)437-9146",
+        "(936) 437-9146",
+        "(936) 295-6371"
+      ]
+    }
+  }
+}
