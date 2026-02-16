@@ -1,0 +1,1487 @@
+{
+  "timestamp": "2026-02-16T08:25:40.309Z",
+  "source": "Texas Comptroller",
+  "source_url": "https://comptroller.texas.gov/taxes/forms/",
+  "total_forms": 186,
+  "forms": [
+    {
+      "title": "AP-201, Texas Application for Sales and Use Tax Permit",
+      "url": "https://comptroller.texas.gov/forms/ap-201.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-215, Texas Online Tax Registration Signature Form",
+      "url": "https://comptroller.texas.gov/forms/ap-215.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-220, Instructions for Completing Texas Sales and Use Tax Permit Application",
+      "url": "https://comptroller.texas.gov/forms/ap-220.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-220-S, Instrucciones para Completar la Solicitud Para el Permiso de Impuesto Sobre Ventas y Uso",
+      "url": "https://comptroller.texas.gov/forms/ap-220-s.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-117",
+      "title": "01-117, Texas Sales and Use Tax Return - Short Form",
+      "url": "https://comptroller.texas.gov/forms/01-117.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-114",
+      "title": "01-114, Texas Sales and Use Tax Return",
+      "url": "https://comptroller.texas.gov/forms/01-114.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-115",
+      "title": "01-115, Texas Sales and Use Tax Return Outlet Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-115.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-116",
+      "title": "01-116, Texas Sales and Use Tax Return List Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-116.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-148",
+      "title": "01-148, Texas Sales and Use Tax Return Credits and Customs Broker Schedule",
+      "url": "https://comptroller.texas.gov/forms/01-148.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-922",
+      "title": "01-922, Instructions for Completing Texas Sales and Use Tax Return",
+      "url": "https://comptroller.texas.gov/forms/01-922.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-922",
+      "title": "01-922(S), Instrucciones para Llenar la Declarac&oacute;n de Impuestos Sobre las Ventas y Uso",
+      "url": "https://comptroller.texas.gov/forms/01-922-s.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-118",
+      "title": "01-118, Texas Sales and Use Tax Prepayment Report",
+      "url": "https://comptroller.texas.gov/forms/01-118.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-142",
+      "title": "01-142, Texas Off-Road, Heavy Duty Diesel Equipment Surcharge Return",
+      "url": "https://comptroller.texas.gov/forms/01-142.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-156",
+      "title": "01-156, Texas Use Tax Return",
+      "url": "https://comptroller.texas.gov/forms/01-156.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-163",
+      "title": "01-163, Texas Use Tax Return",
+      "url": "https://comptroller.texas.gov/forms/01-163.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-798",
+      "title": "01-798, Remote Seller’s Intent to Terminate Use Tax Responsibilities/Remote Seller Status",
+      "url": "https://comptroller.texas.gov/forms/01-798.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-799",
+      "title": "01-799, Remote Seller’s Intent to Elect or Revoke Use of Single Local Use Tax Rate",
+      "url": "https://comptroller.texas.gov/forms/01-799.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-339",
+      "title": "01-339, Texas Sales and Use Tax Resale Certificate / Exemption Certification",
+      "url": "https://comptroller.texas.gov/forms/01-339.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-339",
+      "title": "01-339-S, Certificado de Reventa para el Impuesto Sobre las Ventas y Uso de Texas / Certificado de E",
+      "url": "https://comptroller.texas.gov/forms/01-339-s.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-101, Texas Application for Direct Payment Permit",
+      "url": "https://comptroller.texas.gov/forms/ap-101.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-119",
+      "title": "01-119, Texas Direct Payment Return",
+      "url": "https://comptroller.texas.gov/forms/01-119.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-116",
+      "title": "01-116-C, Texas List Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-116-c.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-149",
+      "title": "01-149, Texas Direct Pay Tax Return Credits Schedule",
+      "url": "https://comptroller.texas.gov/forms/01-149.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-919",
+      "title": "01-919, Texas Direct Payment Exemption Certification",
+      "url": "https://comptroller.texas.gov/forms/01-919.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-168, Texas Application for Customs Broker License",
+      "url": "https://comptroller.texas.gov/forms/ap-168.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-152",
+      "title": "01-152, Texas Customs Broker Report",
+      "url": "https://comptroller.texas.gov/forms/01-152.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-153",
+      "title": "01-153, Texas Customs Broker Report--Outlet Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-153.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-153, Texas Application for Maquiladora Export Permit",
+      "url": "https://comptroller.texas.gov/forms/ap-153.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-126",
+      "title": "01-126, Texas Maquiladora Return",
+      "url": "https://comptroller.texas.gov/forms/01-126.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-116",
+      "title": "01-116-B, Texas List Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-116-b.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-374",
+      "title": "01-374, Maquiladora Exemption Certificate",
+      "url": "https://comptroller.texas.gov/forms/01-374.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-157",
+      "title": "01-157, Texas Special Use Tax Report for Printers",
+      "url": "https://comptroller.texas.gov/forms/01-157.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-162",
+      "title": "01-162, Annual Report of Purchases for Qualified Media Production Location",
+      "url": "https://comptroller.texas.gov/forms/01-162.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-907",
+      "title": "01-907, Texas Aircraft Exemption Certification Out-of-State Registration and Use",
+      "url": "https://comptroller.texas.gov/forms/01-907.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-917",
+      "title": "01-917, Statement of Occasional Sale",
+      "url": "https://comptroller.texas.gov/forms/01-917.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-909",
+      "title": "01-909, Border States Uniform Sale for Resale Certificate",
+      "url": "https://comptroller.texas.gov/forms/01-909.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-213",
+      "title": "00-213, Contribution to Texas Grant and Teach for Texas Loan Repayment Assistance Programs",
+      "url": "https://comptroller.texas.gov/forms/00-213.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-808",
+      "title": "00-808, Assignment of Security for Texas Tax/Fee",
+      "url": "https://comptroller.texas.gov/forms/00-808.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-234, Texas Registration for Qualified Research and Development Sales Tax Exemption",
+      "url": "https://comptroller.texas.gov/forms/ap-234.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-931",
+      "title": "01-931, Qualified Research Sales and Use Tax Exemption Certificate",
+      "url": "https://comptroller.texas.gov/forms/01-931.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-233, Texas Application for Certification as a Qualifying Data Center",
+      "url": "https://comptroller.texas.gov/forms/ap-233.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-236, Texas Application for Certification as a Qualifying Large Data Center Project",
+      "url": "https://comptroller.texas.gov/forms/ap-236.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-929",
+      "title": "01-929, Exemption Certificate for Qualifying Data Centers or Qualifying Large Data Center Projects",
+      "url": "https://comptroller.texas.gov/forms/01-929.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-160",
+      "title": "01-160, Qualifying Data Center or Qualifying Large Data Center Project Job Creation Report",
+      "url": "https://comptroller.texas.gov/forms/01-160.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-161",
+      "title": "Supplement",
+      "url": "https://comptroller.texas.gov/forms/01-161.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-790",
+      "title": "01-790, 2023 Worksheet for Completing the Sales and Use Tax Return Forms 01-114, 01-115, and 01-116",
+      "url": "https://comptroller.texas.gov/forms/01-790.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-797",
+      "title": "01-797, 2023 Worksheet for Completing the Sales and Use Tax Return Form 01-117",
+      "url": "https://comptroller.texas.gov/forms/01-797.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-985",
+      "title": "00-985, Assignment of Right to Refund",
+      "url": "https://comptroller.texas.gov/forms/00-985.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "89-123",
+      "title": "89-123, Credit Memo Acceptance",
+      "url": "https://comptroller.texas.gov/forms/89-123.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-137",
+      "title": "01-137, Limited Power of Attorney",
+      "url": "https://comptroller.texas.gov/forms/01-137.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-158",
+      "title": "01-158, Refund Claim for Residential Use of Electricity for RV Parks and Campground Facilities",
+      "url": "https://comptroller.texas.gov/forms/01-158.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-911",
+      "title": "01-911, Sample of Schedule to Support Refunds",
+      "url": "https://comptroller.texas.gov/forms/01-911.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-124",
+      "title": "01-124, Enterprise or Defense Readjustment Project Claim for Refund",
+      "url": "https://comptroller.texas.gov/forms/01-124.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-144",
+      "title": "01-144, Enterprise or Defense Readjustment Project Claim for Refund for Projects Designated on or Af",
+      "url": "https://comptroller.texas.gov/forms/01-144.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "form_number": "85-199",
+      "title": "85-199, Texas Enterprise Zone - Post-Employment Employee Certification Survey",
+      "url": "https://comptroller.texas.gov/forms/85-199.pdf",
+      "category": "sales",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-114, Texas Nexus Questionnaire",
+      "url": "https://comptroller.texas.gov/forms/ap-114.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-231, Texas Trust Questionnaire",
+      "url": "https://comptroller.texas.gov/forms/ap-231.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-223, Bank Nexus Questionnaire",
+      "url": "https://comptroller.texas.gov/forms/ap-223.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-224, Texas Business Questionnaire",
+      "url": "https://comptroller.texas.gov/forms/ap-224.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-176",
+      "title": "05-176, Professional Employer Organization Report / Temporary Employment Service Report",
+      "url": "https://comptroller.texas.gov/forms/05-176.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-917",
+      "title": "05-917, Instructions for Subchapter T Research and Development Activities Refundable Credit Forms",
+      "url": "https://comptroller.texas.gov/forms/05-917.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-183",
+      "title": "ANNUAL",
+      "url": "https://comptroller.texas.gov/forms/05-183-a-26.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-183",
+      "title": "FINAL",
+      "url": "https://comptroller.texas.gov/forms/05-183-f-26.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-184",
+      "title": "ANNUAL",
+      "url": "https://comptroller.texas.gov/forms/05-184-a-26.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-184",
+      "title": "FINAL",
+      "url": "https://comptroller.texas.gov/forms/05-184-f-26.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-235, Historic Structure Credit Registration",
+      "url": "https://comptroller.texas.gov/forms/ap-235.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-179",
+      "title": "05-179, Sale, Assignment or Allocation of Historic Structure Credit",
+      "url": "https://comptroller.texas.gov/forms/05-179.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-237, Texas Housing Development Credit Registration",
+      "url": "https://comptroller.texas.gov/forms/ap-237.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-186",
+      "title": "05-186, Texas Allocation of Housing Development Credit",
+      "url": "https://comptroller.texas.gov/forms/05-186.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-397",
+      "title": "05-397, Unincorporated Political Committee Statement",
+      "url": "https://comptroller.texas.gov/forms/05-397.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-359",
+      "title": "05-359, Request for Certificate of Account Status",
+      "url": "https://comptroller.texas.gov/forms/05-359.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-391",
+      "title": "05-391, Tax Clearance Letter Request for Reinstatement",
+      "url": "https://comptroller.texas.gov/forms/05-391.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "form_number": "05-904",
+      "title": "05-904, Certification of New Veteran-Owned Business",
+      "url": "https://comptroller.texas.gov/forms/05-904.pdf",
+      "category": "franchise",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-204, Application for Exemption - Federal and All Others",
+      "url": "https://comptroller.texas.gov/forms/ap-204.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-205, Application for Exemption - Charitable Organizations",
+      "url": "https://comptroller.texas.gov/forms/ap-205.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-206, Application for Exemption - Homeowners' Associations",
+      "url": "https://comptroller.texas.gov/forms/ap-206.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-207, Application for Exemption - Educational Organizations",
+      "url": "https://comptroller.texas.gov/forms/ap-207.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-209, Application for Exemption - Religious Organizations",
+      "url": "https://comptroller.texas.gov/forms/ap-209.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-199, Application for Organizations Engaged Primarily in Performing Charitable Functions",
+      "url": "https://comptroller.texas.gov/forms/ap-199.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-339",
+      "title": "01-339, Texas Sales and Use Tax Resale Certificate / Exemption Certification",
+      "url": "https://comptroller.texas.gov/forms/01-339.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "form_number": "12-302",
+      "title": "12-302, Texas Hotel Occupancy Tax Exemption Certification",
+      "url": "https://comptroller.texas.gov/forms/12-302.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "form_number": "50-299",
+      "title": "50-299,  Primarily Charitable Organization Property Tax Exemption",
+      "url": "https://comptroller.texas.gov/forms/50-299.pdf",
+      "category": "exempt",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-178, Texas Application for International Fuel Tax Agreement (IFTA) License",
+      "url": "https://comptroller.texas.gov/forms/ap-178.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "56-101",
+      "title": "56-101, International Fuel Tax Agreement (IFTA) Report",
+      "url": "https://comptroller.texas.gov/forms/56-101.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "56-102",
+      "title": "56-102, IFTA Fuel Tax Report Supplement",
+      "url": "https://comptroller.texas.gov/forms/56-102.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-178-s, Instrucciones Solicitud Para Obtener la Licencia IFTA de Texas",
+      "url": "https://comptroller.texas.gov/forms/ap-178-s.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "56-101",
+      "title": "56-101-s, Instrucciones para la Declaraci&oacute;n del Reporte de Impuestos de Combustible para el A",
+      "url": "https://comptroller.texas.gov/forms/56-101-s.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "56-102",
+      "title": "56-102-s, IFTA Instrucciones Suplentes para el Reporte de Impuestos sobre el Combustible (IFTA)",
+      "url": "https://comptroller.texas.gov/forms/56-102-s.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-197, Texas Diesel Fuel End User or Agricultural Exemption Signed Statement Number Registration",
+      "url": "https://comptroller.texas.gov/forms/ap-197.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-352",
+      "title": "06-352, Texas End User Signed Statement for Purchasing Tax-Free Dyed Diesel Fuel Only",
+      "url": "https://comptroller.texas.gov/forms/06-352.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-710",
+      "title": "06-710, Texas Agricultural Signed Statement for Purchasing Tax-Free Dyed Diesel Fuel",
+      "url": "https://comptroller.texas.gov/forms/06-710.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-133 Texas Application for Fuels Tax License",
+      "url": "https://comptroller.texas.gov/forms/ap-133.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-169",
+      "title": "06-169, Texas Dyed Diesel Bonded User Fuels Tax Report for 2004 and later",
+      "url": "https://comptroller.texas.gov/forms/06-169.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-170",
+      "title": "06-170, Texas Schedule of Tax-Free Purchases of Dyed Diesel Fuel",
+      "url": "https://comptroller.texas.gov/forms/06-170.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-188",
+      "title": "Form 06-188",
+      "url": "https://comptroller.texas.gov/forms/06-188.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-128",
+      "title": "06-128, Texas Motor Fuel Transporter Report",
+      "url": "https://comptroller.texas.gov/forms/06-128.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-133",
+      "title": "06-133, Texas Schedule of Motor Fuel Transporter Deliveries &ndash; Imports",
+      "url": "https://comptroller.texas.gov/forms/06-133.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-143",
+      "title": "Form 06-143, Texas Schedule of Motor Fuel Transporter Deliveries &ndash; Imports",
+      "url": "https://comptroller.texas.gov/forms/06-143.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-134",
+      "title": "06-134, Texas Schedule of Motor Fuel Transporter Deliveries &ndash; Exports",
+      "url": "https://comptroller.texas.gov/forms/06-134.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-144",
+      "title": "Form 06-144, Texas Schedule of Motor Fuel Transporter Deliveries &ndash; Exports",
+      "url": "https://comptroller.texas.gov/forms/06-144.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-126",
+      "title": "06-126, Texas Compressed Natural Gas / Liquefied Natural Gas (CNG/LNG) Dealer Report",
+      "url": "https://comptroller.texas.gov/forms/06-126.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-133 Texas Application for Fuels Tax License",
+      "url": "https://comptroller.texas.gov/forms/ap-133.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-125",
+      "title": "06-125, Texas Interstate Trucker Report",
+      "url": "https://comptroller.texas.gov/forms/06-125.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-125",
+      "title": "06-125-s, Instrucciones para llenar el informe de camioneros interestatales de Texas",
+      "url": "https://comptroller.texas.gov/forms/06-125-s.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-106",
+      "title": "06-106, Texas Claim for Refund of Gasoline or Diesel Fuel Taxes",
+      "url": "https://comptroller.texas.gov/forms/06-106.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-189",
+      "title": "06-189, Texas Claim for Refund of Compressed Natural Gas (CNG) or Liquefied Natural Gas (LNG)",
+      "url": "https://comptroller.texas.gov/forms/06-189.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-111, Texas Motor Fuels Tax Continuous Bond",
+      "url": "https://comptroller.texas.gov/forms/ap-111.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "56-100",
+      "title": "56-100, Texas Continuous Bond for International Fuel Tax Agreement License",
+      "url": "https://comptroller.texas.gov/forms/56-100.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-808",
+      "title": "00-808, Assignment of Security for Texas Tax/Fee",
+      "url": "https://comptroller.texas.gov/forms/00-808.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-812",
+      "title": "00-812, Irrevocable Letter of Credit",
+      "url": "https://comptroller.texas.gov/forms/00-812.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "06-110",
+      "title": "06-110, Bond Rider",
+      "url": "https://comptroller.texas.gov/forms/06-110.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-154, Texas Application for Petroleum Products Delivery Fee Permit",
+      "url": "https://comptroller.texas.gov/forms/ap-154.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "64-100",
+      "title": "64-100, Texas Petroleum Products Delivery Fee Report",
+      "url": "https://comptroller.texas.gov/forms/64-100.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-195, Commercial Motor Vehicle School Fund Benefit Fee Application",
+      "url": "https://comptroller.texas.gov/forms/ap-195.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "27-100",
+      "title": "27-100, Texas School Fund Benefit Fee Monthly Report",
+      "url": "https://comptroller.texas.gov/forms/27-100.pdf",
+      "category": "fuels",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-112",
+      "title": "14-112, Texas Motor Vehicle Sales/Use Tax Payment",
+      "url": "https://comptroller.texas.gov/forms/14-112.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-115",
+      "title": "14-115, Texas Motor Vehicle Sales and Use Tax Report",
+      "url": "https://comptroller.texas.gov/forms/14-115.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-116",
+      "title": "14-116, Texas Motor Vehicle Sales and Use Tax Report Supplement",
+      "url": "https://comptroller.texas.gov/forms/14-116.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-128",
+      "title": "14-128, Texas Used Motor Vehicle Certified Appraisal Form",
+      "url": "https://comptroller.texas.gov/forms/14-128.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-202",
+      "title": "14-202, Texas Claim for Refund of Motor Vehicle Tax",
+      "url": "https://comptroller.texas.gov/forms/14-202.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-312",
+      "title": "14-312, Texas Motor Vehicle Sales Tax Exemption Certificate--For Vehicles Taken Out of State",
+      "url": "https://comptroller.texas.gov/forms/14-312.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-313",
+      "title": "14-313, Texas Motor Vehicle Sales Tax Resale Certificate",
+      "url": "https://comptroller.texas.gov/forms/14-313.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-317",
+      "title": "14-317, Texas Affidavit of Motor Vehicle Gift Transfer",
+      "url": "https://comptroller.texas.gov/forms/14-317.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-318",
+      "title": "14-318, Texas Motor Vehicle Orthopedically Handicapped Exemption Certificate",
+      "url": "https://comptroller.texas.gov/forms/14-318.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-319",
+      "title": "14-319, Texas Motor Vehicle Tax Exemption Certificate for Agricultural/Timber",
+      "url": "https://comptroller.texas.gov/forms/14-319.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-224",
+      "title": "00-224, Detailed Report of Dishonored Checks",
+      "url": "https://comptroller.texas.gov/forms/00-224.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-169, Texas Application for Motor Vehicle Seller-Financed Sales Tax Permit",
+      "url": "https://comptroller.texas.gov/forms/ap-169.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-117",
+      "title": "14-117, Texas Motor Vehicle Seller-Financed Sales Tax Report",
+      "url": "https://comptroller.texas.gov/forms/14-117.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-118",
+      "title": "14-118, Texas Motor Vehicle Seller-Financed Sales Tax Declared Estimate and Prepayment",
+      "url": "https://comptroller.texas.gov/forms/14-118.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-125",
+      "title": "14-125, Texas Motor Vehicle Seller-Financed Sales Tax Surcharge Declared Estimate and Prepayment",
+      "url": "https://comptroller.texas.gov/forms/14-125.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-222, Registration for Motor Vehicle Related Finance Company",
+      "url": "https://comptroller.texas.gov/forms/ap-222.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-143, Texas Motor Vehicle Rental Tax Application",
+      "url": "https://comptroller.texas.gov/forms/ap-143.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-103",
+      "title": "14-103, Texas Motor Vehicle Rental Tax Return",
+      "url": "https://comptroller.texas.gov/forms/14-103.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-105",
+      "title": "14-105, Texas Motor Vehicle Rental Tax Declared Estimate and Prepayment",
+      "url": "https://comptroller.texas.gov/forms/14-105.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-119",
+      "title": "14-119, Texas Local Sports Venue District Tax Report &#8211; for Harris County",
+      "url": "https://comptroller.texas.gov/forms/14-119.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-121",
+      "title": "14-121, Bexar County Sports and Community Venue Project Tax Report",
+      "url": "https://comptroller.texas.gov/forms/14-121.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-122",
+      "title": "14-122, City of Euless Tax Report &#8211; for Short-Term Motor Vehicle Rentals",
+      "url": "https://comptroller.texas.gov/forms/14-122.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-123",
+      "title": "14-123, City of Hill Country Village Tax Report &#8211; for Short-Term Motor Vehicle Rentals",
+      "url": "https://comptroller.texas.gov/forms/14-123.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-129",
+      "title": "14-129, Cameron County Local Motor Vehicle Rental Tax Report &#8211; for Short-Term Motor Vehicle Re",
+      "url": "https://comptroller.texas.gov/forms/14-129.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-130",
+      "title": "14-130, McLennan County Local Motor Vehicle Rental Tax Report &#8211; for Short-Term Motor Vehicle R",
+      "url": "https://comptroller.texas.gov/forms/14-130.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-305",
+      "title": "14-305, Motor Vehicle Verification Certificate for Rental Tax",
+      "url": "https://comptroller.texas.gov/forms/14-305.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-305b",
+      "title": "14-305 (Back), Motor Vehicle Rental Exemption Certificate",
+      "url": "https://comptroller.texas.gov/forms/14-305back.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-320",
+      "title": "14-320, Motor Vehicle Rental Tax Direct Payment Exemption Certificate",
+      "url": "https://comptroller.texas.gov/forms/14-320.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-142",
+      "title": "01-142, Texas Off-Road, Heavy-Duty Diesel Equipment Surcharge Return",
+      "url": "https://comptroller.texas.gov/forms/01-142.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-124",
+      "title": "14-124, Texas Motor Vehicle Registration Surcharge Report",
+      "url": "https://comptroller.texas.gov/forms/14-124.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "14-128",
+      "title": "14-128, Texas Used Motor Vehicle Certified Appraisal Form",
+      "url": "https://comptroller.texas.gov/forms/14-128.pdf",
+      "category": "motor-vehicle",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-100",
+      "title": "25-100, Annual Insurance Premium Tax Report",
+      "url": "https://comptroller.texas.gov/forms/25-100.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-101",
+      "title": "25-101, Insurance Semi-Annual Premium Tax Payment",
+      "url": "https://comptroller.texas.gov/forms/25-101.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-124",
+      "title": "25-124, Texas Annual Insurance Premium Tax Report for Licensed Captive Insurance Companies",
+      "url": "https://comptroller.texas.gov/forms/25-124.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-205",
+      "title": "25-205, Computation of Non-Taxable Insurance Premiums",
+      "url": "https://comptroller.texas.gov/forms/25-205.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-208",
+      "title": "25-208, Reciprocal or Interinsurance Exchange",
+      "url": "https://comptroller.texas.gov/forms/25-208.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-102",
+      "title": "25-102, Insurance Maintenance, Assessment and Retaliatory Report",
+      "url": "https://comptroller.texas.gov/forms/25-102.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-200",
+      "title": "25-200, Retaliatory Worksheet",
+      "url": "https://comptroller.texas.gov/forms/25-200.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-300",
+      "title": "25-300, Annual Insurance Maintenance, Assessment, and Retaliatory Report Instructions",
+      "url": "https://comptroller.texas.gov/forms/25-300.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-106",
+      "title": "25-106, Insurance Motor Vehicle Crime Prevention Authority Semiannual Fee Report - January through J",
+      "url": "https://comptroller.texas.gov/forms/25-106.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-107",
+      "title": "25-107, Insurance Motor Vehicle Crime Prevention Authority Semiannual Fee Report - July through Dece",
+      "url": "https://comptroller.texas.gov/forms/25-107.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-107",
+      "title": "25-107-A, Insurance Motor Vehicle Crime Prevention Authority Semiannual Fee Report - July through De",
+      "url": "https://comptroller.texas.gov/forms/25-107-A.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-106",
+      "title": "25-106-A, Insurance Motor Vehicle Crime Prevention Authority Semiannual Fee Report - January through",
+      "url": "https://comptroller.texas.gov/forms/25-106-a.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-117",
+      "title": "25-117,  Program I - Certified Investor Annual Notification of Credit Transfer",
+      "url": "https://comptroller.texas.gov/forms/25-117.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-118",
+      "title": "25-118,  Program I - Certified Investor Tax Credit Transfer Affidavit",
+      "url": "https://comptroller.texas.gov/forms/25-118.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-120",
+      "title": "25-120,  Program II - Certified Investor Annual Notification of Credit Transfer",
+      "url": "https://comptroller.texas.gov/forms/25-120.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-121",
+      "title": "25-121,  Program II - Certified Investor Tax Credit Transfer Affidavit",
+      "url": "https://comptroller.texas.gov/forms/25-121.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-104",
+      "title": "25-104, Annual Insurance Tax Report - Surplus Line/Purchasing Groups",
+      "url": "https://comptroller.texas.gov/forms/25-104.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-105",
+      "title": "25-105, Insurance Prepayment Form for Surplus Lines Agents",
+      "url": "https://comptroller.texas.gov/forms/25-105.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-103",
+      "title": "25-103, Annual Insurance Tax Report - Independently Procured Insurance",
+      "url": "https://comptroller.texas.gov/forms/25-103.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-122",
+      "title": "25-122, Annual Insurance Tax Report Supplement - Independently Procured Insurance",
+      "url": "https://comptroller.texas.gov/forms/25-122.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-108",
+      "title": "25-108, Annual Insurance Tax Report - Unauthorized Insurance",
+      "url": "https://comptroller.texas.gov/forms/25-108.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "25-123",
+      "title": "25-123, Supplement",
+      "url": "https://comptroller.texas.gov/forms/25-123.pdf",
+      "category": "insurance",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-157",
+      "title": "10-157 and 10-161, Purchaser Report of Natural Gas Tax and Lease Detail Supplement",
+      "url": "https://comptroller.texas.gov/forms/10-157-10-161.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-157",
+      "title": "10-157, Purchaser Report of Natural Gas Tax",
+      "url": "https://comptroller.texas.gov/forms/10-157.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-161",
+      "title": "10-161, Natural Gas Tax Purchaser Lease Detail Supplement",
+      "url": "https://comptroller.texas.gov/forms/10-161.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-159",
+      "title": "10-159 and 10-163, Producer Report of Natural Gas Tax and Lease Detail Supplement",
+      "url": "https://comptroller.texas.gov/forms/10-159-10-163.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-159",
+      "title": "10-159, Producer Report of Natural Gas Tax",
+      "url": "https://comptroller.texas.gov/forms/10-159.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-163",
+      "title": "10-163, Natural Gas Tax Producer Lease Detail Supplement",
+      "url": "https://comptroller.texas.gov/forms/10-163.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-167",
+      "title": "10-167 and 10-171,",
+      "url": "https://comptroller.texas.gov/forms/10-167-10-171.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-167",
+      "title": "10-167,",
+      "url": "https://comptroller.texas.gov/forms/10-167.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-171",
+      "title": "10-171,",
+      "url": "https://comptroller.texas.gov/forms/10-171.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-169",
+      "title": "10-169 and 10-173,",
+      "url": "https://comptroller.texas.gov/forms/10-169-10-173.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-169",
+      "title": "10-169,",
+      "url": "https://comptroller.texas.gov/forms/10-169.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-173",
+      "title": "10-173,",
+      "url": "https://comptroller.texas.gov/forms/10-173.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-134, Texas Crude Oil and Natural Gas Tax Questionnaire",
+      "url": "https://comptroller.texas.gov/forms/ap-134.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "10-147",
+      "title": "10-147, Credit Transfer for Natural Gas Tax",
+      "url": "https://comptroller.texas.gov/forms/10-147.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-180, Request for Approval of Reduced Tax Rate for High Cost Gas",
+      "url": "https://comptroller.texas.gov/forms/ap-180.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "title": "AP-217, Texas Well Exemption Application",
+      "url": "https://comptroller.texas.gov/forms/ap-217.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "00-985",
+      "title": "00-985, Assignment of Right to Refund",
+      "url": "https://comptroller.texas.gov/forms/00-985.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    },
+    {
+      "form_number": "01-137",
+      "title": "01-137, Limited Power of Attorney",
+      "url": "https://comptroller.texas.gov/forms/01-137.pdf",
+      "category": "natural-gas",
+      "type": "PDF"
+    }
+  ],
+  "categories": [
+    "sales",
+    "franchise",
+    "exempt",
+    "fuels",
+    "motor-vehicle",
+    "insurance",
+    "natural-gas"
+  ],
+  "langgraph_ready": {
+    "metadata": {
+      "experiment": "Experiment 5 - Texas Data Pipeline",
+      "agent": "ComptrollerCrawler",
+      "source": "comptroller.texas.gov"
+    },
+    "forms_indexed": [
+      null,
+      null,
+      null,
+      null,
+      "01-117",
+      "01-114",
+      "01-115",
+      "01-116",
+      "01-148",
+      "01-922",
+      "01-922",
+      "01-118",
+      "01-142",
+      "01-156",
+      "01-163",
+      "01-798",
+      "01-799",
+      "01-339",
+      "01-339",
+      null,
+      "01-119",
+      "01-116",
+      "01-149",
+      "01-919",
+      null,
+      "01-152",
+      "01-153",
+      null,
+      "01-126",
+      "01-116",
+      "01-374",
+      "01-157",
+      "01-162",
+      "01-907",
+      "01-917",
+      "01-909",
+      "00-213",
+      "00-808",
+      null,
+      "01-931",
+      null,
+      null,
+      "01-929",
+      "01-160",
+      "01-161",
+      "01-790",
+      "01-797",
+      "00-985",
+      "89-123",
+      "01-137",
+      "01-158",
+      "01-911",
+      "01-124",
+      "01-144",
+      "85-199",
+      null,
+      null,
+      null,
+      null,
+      "05-176",
+      "05-917",
+      "05-183",
+      "05-183",
+      "05-184",
+      "05-184",
+      null,
+      "05-179",
+      null,
+      "05-186",
+      "05-397",
+      "05-359",
+      "05-391",
+      "05-904",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "01-339",
+      "12-302",
+      "50-299",
+      null,
+      "56-101",
+      "56-102",
+      null,
+      "56-101",
+      "56-102",
+      null,
+      "06-352",
+      "06-710",
+      null,
+      "06-169",
+      "06-170",
+      "06-188",
+      "06-128",
+      "06-133",
+      "06-143",
+      "06-134",
+      "06-144",
+      "06-126",
+      null,
+      "06-125",
+      "06-125",
+      "06-106",
+      "06-189",
+      null,
+      "56-100",
+      "00-808",
+      "00-812",
+      "06-110",
+      null,
+      "64-100",
+      null,
+      "27-100",
+      "14-112",
+      "14-115",
+      "14-116",
+      "14-128",
+      "14-202",
+      "14-312",
+      "14-313",
+      "14-317",
+      "14-318",
+      "14-319",
+      "00-224",
+      null,
+      "14-117",
+      "14-118",
+      "14-125",
+      null,
+      null,
+      "14-103",
+      "14-105",
+      "14-119",
+      "14-121",
+      "14-122",
+      "14-123",
+      "14-129",
+      "14-130",
+      "14-305",
+      "14-305b",
+      "14-320",
+      "01-142",
+      "14-124",
+      "14-128",
+      "25-100",
+      "25-101",
+      "25-124",
+      "25-205",
+      "25-208",
+      "25-102",
+      "25-200",
+      "25-300",
+      "25-106",
+      "25-107",
+      "25-107",
+      "25-106",
+      "25-117",
+      "25-118",
+      "25-120",
+      "25-121",
+      "25-104",
+      "25-105",
+      "25-103",
+      "25-122",
+      "25-108",
+      "25-123",
+      "10-157",
+      "10-157",
+      "10-161",
+      "10-159",
+      "10-159",
+      "10-163",
+      "10-167",
+      "10-167",
+      "10-171",
+      "10-169",
+      "10-169",
+      "10-173",
+      null,
+      "10-147",
+      null,
+      null,
+      "00-985",
+      "01-137"
+    ],
+    "by_category": {
+      "sales": 55,
+      "franchise": 18,
+      "exempt": 9,
+      "fuels": 33,
+      "motor-vehicle": 31,
+      "insurance": 22,
+      "natural-gas": 18
+    }
+  }
+}
